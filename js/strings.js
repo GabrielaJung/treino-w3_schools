@@ -95,3 +95,8 @@ const breakAll = justHello.split('')
 
 console.log(text.includes('alright', 5)) //true
 console.log(text.endsWith('alright', 12)) //true
+
+
+// HEXADECIMAL
+// JavaScript interprets numeric constants as hexadecimal if they are preceded by 0x
+ let hex = 0xFF // it returns 255
