@@ -1,0 +1,1 @@
+// document nunca acessa elementos que não estão no body
